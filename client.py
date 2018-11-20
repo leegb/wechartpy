@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  2 02:09:01 2017
-
-@author: qleegb
-"""
 import os
 from wxpy import Bot
 from PyQt5.QtCore import QObject,pyqtSignal
