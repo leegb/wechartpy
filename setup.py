@@ -5,7 +5,6 @@ setup(
     name='WeChartpy',
     version='1.42',
     description='A Python Interface to WeChart',
-    long_description=long_description,
     author='ljb_lee',
     author_email='ljb_lee@163.com',
     url='https://github.com/leegb/wechartpy',
